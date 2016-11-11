@@ -1,0 +1,2 @@
+# sliders
+common js sliders
